@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+
+    <!--catégories -->
+    <string name="categorie_1">Jeux</string>
+    <string name="categorie_2">Art et Culture</string>
+    <string name="categorie_3">Bonnes affaires</string>
+    <string name="categorie_4">Sport</string>
+    <string name="categorie_5">Categorie 5</string>
+    <string name="categorie_6">Categorie 6</string>
+    <!--mots clefs-->
+    <string name="mot_cle_1">Mot cle 1</string>
+    <string name="mot_cle_2">Mot cle 2</string>
+    <string name="mot_cle_3">Mot clé 3</string>
+    <string name="mot_cle_4">Mot cle 4</string>
+    <string name="mot_cle_5">Mot cle 5</string>
+    <string name="mot_cle_6">Mot cle 6</string>
+    <!--age-->
+    <string name="age_1">Age 1</string>
+    <string name="age_2">Age 2</string>
+    <string name="age_3">Age 3</string>
+    <string name="age_4">Age 4</string>
+    <string name="age_5">Age 5</string>
+    <string name="age_6">Age 6</string>
+
+
+    <!-- infos contact-->
+    <string name="mail_contact">contact@asso.fr</string>
+    <string name="email_orga">contact_organisation@asso.fr</string>
+    <string name="phone_number">06 06 06 06 06</string>
+    <string name="mailto_mail_asso">mailto:contact@asso.fr</string>
+    <string name="mail_to_orga_asso">mailto:contact_organisation@asso.fr</string>
+    <string name="sujet_mail_asso">Contact JV</string>
+    <string name="sujet_mail_orga_asso">Demande d\'enregistrement d\'une sortie que j\'organise</string>
+    <string name="sujet_mail_demande_renseignements">Demande de renseignements</string>
+    <string name="sujet_demande_renseignements">Demande de renseignements</string>
+
+    <!-- du texte -->
+    <string name="some_text">Du texte</string>
+
+    <string name="pseudo">Pseudo</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="email">E-mail</string>
+    <string name="txt_mdp_cache">*****</string>
+    <string name="txt_pseudo_pour_debug">Champ qui affiche le pseudo</string>
+    <string name="txt_email_pour_debug">Champ qui affiche l\'email</string>
+    <string name="txt_liste_categ_pour_debug">Ici les champs qui afficheront les préférences à selectionner</string>
+    <string name="txt_confirm_mdp_modifié">Le mot de passe a bien été modifié !</string>
+    <string name="txt_ancien_mdp_incorrect">L\'ancien mot de passe est incorrect</string>
+    <string name="txt_info_egalite_2_mdp">Les 2 nouveaux mots de passe doivent être identiques</string>
+    <string name="txt_info_format_mdp">Le mot de passe doit :  - avoir entre 8 et 20 caractères -au moins 1 lettre -au moins 1 chiffre</string>
+    <string name="txt_info_pseudo_deja_pris">Ce pseudo est déjà utilisé, merci d\'en choisir un autre !</string>
+    <string name="txt_info_egalite_2_email">Les 2 e-mails doivent être identiques</string>
+    <string name="txt_info_demande_verif_email">Merci de vérifier l\'email</string>
+    <string name="txt_info_email_existe_se_connecter">Cet e-mail est déjà enregistré, essayez de vous connecter !</string>
+    <string name="txt_info_profil_modifie">Profil modifié</string>
+    <string name="txt_info_au_moins_1_categ">Merci de sélectionner au moins 1 catégorie.</string>
+    <string name="txt_debut_txt_horaire">A :</string>
+    <string name="txt_debut_txt_dates">Le</string>
+    <string name="txt_ici_le_chapo">Ici le chapo</string>
+    <string name="txt_ici_le_contenu_de_l_article">Ici le contenu de l\'article</string>
+    <string name="txt_ici_le_contenu_de_l_adresse">ici_le_contenu_de_l_adresse</string>
+    <string name="txt_plus_d_infos">Plus d\'infos :</string>
+    <string name="txt_aujourd_hui">Aujourd\'hui</string>
+    <string name="txt_dans_la_semaine">Dans la semaine</string>
+    <string name="txt_plus_tard">Plus tard</string>
+    <string name="txt_preambule_cgu">L’association pour le développement de médias locaux en Occitanie (ADEMELO), association de type loi 1901 déclarée auprès de la préfecture du Tarn sous le n° W811005708 et ayant son siège social au 17 rue Montaudry 81000 Albi, propose sur son application mobile JV (ci-après dénommée L’Appli) des contenus d’actualité en langue française. Ce service est régi par les présentes conditions générales d’utilisation (ci-après dénommées les CGU), à l’exclusion de tout autre document ou condition. Toute consultation de l’Appli implique l’adhésion entière et sans réserve de l’utilisateur aux présentes CGU.\n\nL’ADEMELO se réserve la possibilité de modifier à tout moment les CGU. Les nouvelles conditions générales d’utilisation seront, le cas échéant, portées à la connaissance de l’utilisateur par modification sur l’Appli. Les CGU sont soumises à la loi française. En cas de litige, les tribunaux français seront seuls compétents.</string>
+    <string name="txt_utilisation_cgu">Le contenu de l’Appli est consultable par les internautes après téléchargement de l’Appli, dans le cadre d’un usage strictement personnel, privé et non collectif. Toute réexploitation dans un cadre professionnel ou commercial ou toute commercialisation de ce contenu auprès de tiers est interdite, sauf accord exprès de l’ADEMELO.\nLes entreprises souhaitant ré-exploiter le contenu de l’Appli sont invitées à contacter l’ADEMELO à l’adresse contact.ademelo@gmail.com .\n\nL’utilisateur est informé que les contenus et services de l’Appli peuvent être financés par les revenus liés à la publicité diffusée sur cet espace. Ces revenus publicitaires peuvent être nécessaires pour permettre à l’ADEMELO d’offrir un accès libre à ces services. \nEn conséquence, l’utilisateur accepte l’affichage de la publicité sur l’Appli.\n\nL’ADEMELO réalise ses prestations dans le cadre de l’édition d’une application mobile conformément à la réglementation française en vigueur. La responsabilité de l’ADEMELO ne saurait être engagée en cas de non-respect de la législation d’un autre pays.\n\nL’ADEMELO peut établir un lien avec d’autres sites ou sources. L’ADEMELO ne dispose d’aucun moyen pour contrôler ces sites et ces sources et ne répond pas de la disponibilité de tels sites et sources externes ni ne la garantit. L’ADEMELO ne s’approprie pas les contenus auxquels ces sites ou sources donnent accès et exclut toute responsabilité et garantie en ce qui concerne ces contenus.</string>
+    <string name="txt_donnees_perso_cgu">L’ADEMELO, association éditrice de l’application mobile JV, respecte la vie privée de ses utilisateurs et s’engage à ce que toutes les informations qu’il recueille permettant d’identifier l’utilisateur soient considérées comme des informations confidentielles.\n\nL’ADEMELO recueille par le biais du profil Utilisateur de l’Appli, un pseudonyme, une adresse e-mail et un numéro de téléphone. Ces données ne sont en aucun cas communiquées à des personnes morales ou physiques extérieures à l’ADEMELO.  Seuls le président de l’association et l’informaticien  y ont accès. Elles sont conservées jusqu’à ce que l’Utilisateur supprime son compte. Dans ce cas, toutes ses données seront définitivement effacées. Le numéro de téléphone n’est utilisé que pour contacter l’Utilisateur lorsque celui-ci remporte un jeu-concours.\n\nL’ADEMELO utilise les informations personnelles qu’il recueille auprès de ses utilisateurs pour permettre la fourniture des services qu’il propose. Conformément aux dispositions de la loi du 6 janvier 1978 relative aux fichiers, à l’informatique et aux libertés, les utilisateurs de l’Appli disposent d’un droit d’accès, de rectification et d’opposition aux données personnelles les concernant. Ce droit s’exerce soit en modifiant ses informations personnelles sur la page consacrée à son compte, soit auprès de l’ADEMELO :\n- contact.ademelo@gmail.com\n- ADEMELO, 17 rue Montaudry 81000 ALBI</string>
+    <string name="txt_informations_legales">Appli JV\nEditeur : Association d’aide au développement de médias locaux en Occitanie (ADEMELO)\nAssociation loi 1901 déclarée auprès de la préfecture du Tarn sous le n° W811005708\nSiège social : 17 rue Montaudry 81000 Albi\nTéléphone : 06 75 85 63 46\nPour nous contacter : contact.ademelo@gmail.com\nResponsable légal : Christophe GUGUEN</string>
+    <string name="txt_icones_credits_youtube">Icon made from is licensed by CC BY 3.0</string>
+    <string name="txt_icones_credits_pdf">Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 </string>
+    <string name="txt_icones_credits_www">Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 </string>
+    <string name="txt_icones_credits_facebook">Icons made by Icomoon from www.flaticon.com is licensed by CC 3.0 </string>
+    <string name="txt_icones_credits_voiture">Icon made from Icon Fonts is licensed by CC BY 3.0</string>
+    <string name="txt_info_connexion_obligatoire">Vous avez besoin d\'une connexion au réseau (mobile ou wifi) pour utiliser cette application.</string>
+    <string name="txt_info_que_faire_apres_connexion">Connectez-vous et appuyez sur le bouton ci dessous pour redémarer l\'application.</string>
+
+    <string name="url_site_web">www.google.fr</string>
+    <string name="url_facebook">www.facebook.fr</string>
+    <string name="adr_non_connue">non connue</string>
+    <string name="tel_non_connu">non connu</string>
+    <string name="url_twitter">www.twitter.fr</string>
+    <string name="categ_non_connue">non connu</string>
+    <string name="txt_ici_s_affichera_l_email">ici s\'affichera l\'email</string>
+
+
+    <!--- boutons -->
+    <string name="btn_connection">Connexion</string>
+    <string name="btn_inscription">Inscription</string>
+    <string name="btn_contact_orga">Organisateur ? Contactez-nous !</string>
+    <string name="btn_connexion">Connexion</string>
+    <string name="btn_next">Suivant</string>
+    <string name="btn_valider">Valider</string>
+    <string name="btn_annuler">Annuler</string>
+    <string name="btn_modif_profil">Modifier le profil</string>
+    <string name="btn_log_out">Log out</string>
+    <string name="btn_modif_mdp">Modifier Mot de passe</string>
+    <string name="btn_plus_de_sorties">+ de sorties</string>
+    <string name="btn_cgu">CGU</string>
+    <string name="btn_mentions_legales">Mentions légales</string>
+    <string name="btn_credit">Crédits</string>
+
+
+    <!--titres-->
+    <string name="titre_connexion">Connectez vous à votre compte !</string>
+    <string name="titre_article">Titre article</string>
+    <string name="titre_contact">Contactez-nous !</string>
+    <string name="titre_centres_interet">Choisissez vos centres d\'intérêt</string>
+    <string name="titre_choix_par_mot_cle">Mots clés</string>
+    <string name="titre_choix_par_age">par age</string>
+    <string name="titre_1">Titre 1</string>
+    <string name="liste_1">Les sorties d\'aujourd\'hui : </string>
+    <string name="liste_2">Liste 2</string>
+    <string name="titre_modif_profil">Modifiez votre profil</string>
+    <string name="titre_page_article_par_categ">Sorties pour la categorie sélectionnée</string>
+    <string name="titre_cgu">Appli JV – Conditions générales d’utilisation</string>
+    <string name="titre_preambule_cgu">PRÉAMBULE</string>
+    <string name="titre_utilisation_cgu">UTILISATION DE L’APPLICATION MOBILE</string>
+    <string name="titre_donnees_perso_cgu">DONNÉES PERSONNELLES</string>
+    <string name="titre_mentions_legales">Appli JV – Mentions légales</string>
+    <string name="titres_informations_legales">INFORMATIONS LÉGALES</string>
+    <string name="titre_crédits">CREDITS</string>
+    <string name="titre_icones_credits">Crédits icones : </string>
+
+
+    <!--labels-->
+    <string name="lbl_entrer_pseudo">Entrez votre nom ou pseudo</string>
+    <string name="lbl_entrer_email">Entrez votre e-mail</string>
+    <string name="lbl_verif_email">Vérification</string>
+    <string name="lbl_entrer_mdp">Entrez votre mot de passe</string>
+    <string name="lbl_verif_mdp">Vérification</string>
+    <string name="lbl_pref">Préférences</string>
+    <string name="lbl_ancien_mot_de_passe">Ancien mot de passe</string>
+    <string name="lbl_nouveau_mot_de_passe">Entrer nouveau mot de passe</string>
+    <string name="lbl_verif_nouveau_mot_de_passe">Vérification</string>
+    <string name="lbl_prix">Prix :</string>
+
+    <!--geoloc-->
+    <string name="no_geocoder_available">No geocoder available</string>
+    <string name="fetch_address">Fetch address</string>
+    <string name="address_found">Address found</string>
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="txt_enter_origin_adress">Enter origin address</string>
+    <string name="txt_enter_destination_adress">Enter destination address</string>
+    <string name="txt_pour_plus_d_options">Pour plus d\'options, sélectionnez la destination et appuyez sur la flèche en bas à droite de l\'écran</string>
+    <string name="contentD_picto_distance">picto distance</string>
+    <string name="contentD_picto_temps">picto_temps</string>
+    <string name="txt_zero_km">0 km</string>
+    <string name="txt_zero_minute">0 min</string>
+    <string name="contentD_picto_marche">picto marche</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

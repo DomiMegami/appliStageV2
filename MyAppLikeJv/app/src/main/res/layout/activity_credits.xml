@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="dominique.fr.myapplikejv.CreditsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/toolbar"
+            android:background="@color/colorPrimary"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            >
+        </android.support.v7.widget.Toolbar>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/titre_crédits"
+                style="@style/Titre_page_rouge_orange"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/titre_icones_credits"
+                style="@style/label_bleu"
+                android:layout_marginBottom="20dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton_youtube"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/imgBtn_fond_blanc"
+                    app:srcCompat="@drawable/ic_youtube"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/txt_icones_credits_youtube"
+                    android:lineSpacingExtra="10dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton_pdf"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/imgBtn_fond_blanc"
+                    app:srcCompat="@drawable/ic_pdf"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/txt_icones_credits_pdf"
+                    android:lineSpacingExtra="10dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton_www"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/imgBtn_fond_blanc"
+                    app:srcCompat="@drawable/ic_icon_www_30dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/txt_icones_credits_www"
+                    android:lineSpacingExtra="10dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton_facebook"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/imgBtn_fond_blanc"
+                    app:srcCompat="@drawable/ic_facebook_red_30dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/txt_icones_credits_facebook"
+                    android:lineSpacingExtra="10dp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton_voiture"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/imgBtn_fond_blanc"
+                    app:srcCompat="@drawable/ic_car"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/txt_icones_credits_voiture"
+                    android:lineSpacingExtra="10dp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

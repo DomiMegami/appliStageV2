@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="btn_fond_blanc_txt_bleu">
+        <item name="android:background">@color/blanc</item>
+        <item name="android:textColor">@color/bleu_a</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+
+    <style name="btn_fond_blanc_txt_noir">
+        <item name="android:background">@color/bkg_btn_unselect</item>
+        <item name="android:textColor">@color/noir</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="imgBtn_fond_blanc">
+        <item name="android:background">@color/bkg_btn_unselect</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:paddingBottom">30dp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+    <style name="txt_sur_img">
+        <item name="android:textColor">@color/blanc</item>
+        <item name="android:background">@color/noir</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+
+    </style>
+    <style name="Titre_page_rouge_orange">
+        <item name="android:textColor">@color/orange_a</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">30dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="Titre_page_bleu">
+        <item name="android:textColor">@color/bleu_a</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginBottom">30dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="Titre_section_rouge_orange">
+        <item name="android:textColor">@color/orange_a</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+    <style name="Titre_section_bleu">
+        <item name="android:textColor">@color/bleu_a</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="label">
+        <item name="android:textColor">@color/orange_a</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="label_bleu">
+        <item name="android:textColor">@color/bleu_a</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="txt_dans_EditText">
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="txt_dans_imgBtn">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/bleu_a</item>
+        <item name="android:layout_gravity">bottom|center_vertical</item>
+        <item name="android:textAlignment">center</item>
+
+    </style>
+
+    <style name="btn_fond_blanc_txt_bleu_cgu">
+        <item name="android:background">@color/bkg_btn_unselect</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+
+
+
+</resources>

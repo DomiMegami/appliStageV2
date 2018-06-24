@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dc4a24</color>
+    <color name="colorPrimaryDark">#dc3a24</color>
+    <color name="colorAccent">#218692</color>
+
+
+    <color name="blanc">#FFffff</color>
+    <color name="noir">#000000</color>
+
+    <color name="txt_sur_fond_sombre">#ffffff</color>
+    <color name="txt_sur_fond_clair">#000000</color>
+    <color name="bkg_btn_select">#dc4a24</color>
+    <color name="bkg_btn_unselect">#10ffffff</color>
+
+
+    <color name="bkg_noir_transp">#78000000</color>
+    <color name="bkg_noir_tres_transp">#20000000</color>
+
+    <!--couleurs suivant couleurs d'Albi-->
+    <color name="bleu_a">#218692</color>
+    <color name="orange_a">#dc4a24</color>
+    <color name="rouge_a">#dc3a24</color>
+    <color name="jaune_or_a">#f1dd00</color>
+</resources>
